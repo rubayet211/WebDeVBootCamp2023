@@ -5,7 +5,7 @@ WebDeVBootCamp2023
 Welcome to my Web Development Bootcamp 2023 repository! This is where I document my journey and showcase my progress in learning web development.
 
 About Me
-Hey there! I'm [Your Name], a passionate learner on a mission to become a skilled web developer. This repository serves as a testament to my dedication and growth in this exciting field. Join me as I navigate through the intricacies of web development, learn new technologies, and build amazing projects along the way.
+Hey there! I'm Rhyme Rubayet, a passionate learner on a mission to become a skilled web developer. This repository serves as a testament to my dedication and growth in this exciting field. Join me as I navigate through the intricacies of web development, learn new technologies, and build amazing projects along the way.
 
 Table of Contents
 Projects
