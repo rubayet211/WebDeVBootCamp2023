@@ -19,3 +19,32 @@ footer {
   color: midnightblue;
 }
 
+.title-image {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+  scale: 0.5;
+}
+
+.card {
+  width: 45%;
+  display: inline-block;
+}
+
+.left {
+  float: left;
+  display: inline-block;
+}
+
+.right {
+  display: inline-block;
+  float: right;
+}
+
+.creative {
+  color: midnightblue;
+}
+
+@media (max-width: 680) {
+
+}
